@@ -60,6 +60,8 @@ flutter:
     - assets/img/seclob_logo.png
     - assets/img/painter2.jpg
     - assets/img/bg.jpg
+    - assets/img/bg2.jpg
+    - assets/img/phone.jpg
     - assets/img/biriyani.jpg
     - assets/img/smartPhone.jpg
   #   - images/a_dot_ham.jpeg
